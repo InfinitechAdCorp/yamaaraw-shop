@@ -298,7 +298,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center space-x-3">
               <div className="relative w-12 h-8">
-                <Image src="/images/yamaaraw_logo.png" alt="YAMAARAW" fill className="object-contain" />
+                <Image src="/icon512_rounded.png" alt="YAMAARAW" fill className="object-contain" />
               </div>
               <span className="font-bold text-xl bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
                 YAMAARAW
